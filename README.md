@@ -1,0 +1,3 @@
+# JS-HINDI
+Hello Everyone, this is a javascript repository
+This is beginner friendly.........
